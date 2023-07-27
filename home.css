@@ -553,7 +553,6 @@
 
 #about > .container .disc, .edu {
     flex: 3;
-    /* letter-spacing: 1spx; */
     margin-left: 1rem;
   }
   
